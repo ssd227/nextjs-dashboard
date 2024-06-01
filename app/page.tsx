@@ -54,7 +54,7 @@ export default function Page() {
           />
         </div>
 
-        <h1 className="text-red-500">I'm blue!</h1>
+        <h1 className="text-red-500">I&apos;m blue!</h1>
       </div>
     </main>
   );
